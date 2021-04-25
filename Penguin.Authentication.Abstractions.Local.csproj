@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <PackageProjectUrl>https://github.com/penguincms/Penguin.Authentication.Abstractions</PackageProjectUrl>
+    <DocumentationFile>Penguin.Authentication.Abstractions.xml</DocumentationFile>
+    <Version>5.0.5</Version>
+    <AssemblyName>Penguin.Authentication.Abstractions</AssemblyName>
+    <RootNamespace>Penguin.Authentication.Abstractions</RootNamespace>
+    <Description>Not Available</Description>
+  </PropertyGroup>
+  <Import Project="Penguin.Projects.Shared\Penguin.Projects.Shared.csproj" />
+</Project>
